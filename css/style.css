@@ -10,12 +10,18 @@
     border: none;
 }
 
-.btn-readmore,
+.btn-readmore:hover {
+    background-color: rgb(15, 15, 145);
+}
+
+.btn-readmore:active {
+    background-color: rgb(15, 102, 145);
+    border: 1px solid blue;
+}
 .btn-go-home:hover {
     background-color: rgb(15, 15, 145);
 }
 
-.btn-readmore,
 .btn-go-home:active {
     background-color: rgb(15, 102, 145);
     border: 1px solid blue;
