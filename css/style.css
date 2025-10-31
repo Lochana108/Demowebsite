@@ -1,0 +1,16 @@
+.btn-readmore{
+    background-color: blue;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: larger;
+    cursor: pointer;
+    border: none;
+}
+.btn-readmore:hover{
+    background-color:rgb(15, 15, 145);
+}
+.btn-readmore:active{
+    background-color:rgb(15, 102, 145);
+}
